@@ -10,7 +10,8 @@
 <p align="center">
   <img src="https://github.com/yousaf2018/AutoTrackSamYOLO/blob/main/logo.png" alt="EthoGrid Logo" width="200">
 </p>
-Whether you are tracking cells in a petri dish, vehicles on a highway, athletes on a field, or animals in the wild, this system eliminates the traditional "Cold Start" problem in computer-vision workflows. By combining Meta’s Segment Anything Model 3 (SAM 3) with lightweight user interaction, it can rapidly generate high-quality labels and track targets without requiring thousands of manually drawn bounding boxes.
+Whether you are tracking **microscopic living organisms, nano-scale particles, or complex biological systems in dense marine environments**, this platform is purpose-built to handle extreme occlusion and crowded visual scenes. Traditional computer-vision pipelines struggle with overlapping targets, rapid motion, and scale variation, but this system eliminates the classic "Cold Start" problem. By combining **Meta’s Segment Anything Model 3 (SAM 3)** with lightweight user interaction, it can rapidly generate precise labels and track targets without requiring thousands of manually drawn bounding boxes. This enables researchers to solve highly complex detection and tracking challenges in environments where conventional tools fail — from plankton-rich marine ecosystems to dense microbial cultures under the microscope.
+****
 
 Beyond serving as a smart tracker, the platform functions as a full **Dataset Factory**. It automatically converts trajectories and segmentations into training-ready **YOLO annotations**, allowing you to train custom detectors on your own data with minimal effort.
 
