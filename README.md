@@ -1,4 +1,4 @@
-# 🎯 AutoTrackSamYOLO
+# AutoTrackSamYOLO
 ### Universal Object Tracking Pipeline: From Zero-Shot Annotation to YOLO Deployment
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -8,7 +8,7 @@
 
 **AutoTrackSamYOLO** is a powerful, GUI-based desktop application designed to automate the detection, tracking, and analysis of **any moving object** in video footage. 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yousaf2018/EthoGrid/main/images/android-chrome-512x512.png" alt="EthoGrid Logo" width="200">
+  <img src="https://github.com/yousaf2018/AutoTrackSamYOLO/blob/main/logo.png" alt="EthoGrid Logo" width="200">
 </p>
 Whether you are tracking **cells in a petri dish, vehicles on a highway, athletes on a field, or animals in the wild**, this tool solves the "Cold Start" problem. It leverages **Meta's Segment Anything Model 3 (SAM 3)** to semi-automatically label and track targets without requiring thousands of manual bounding boxes.
 
@@ -133,7 +133,19 @@ SAM3_Results/
 ```
 ## 🤝 Contributing
 We welcome contributions! Whether it's support for new model architectures, UI improvements, or additional analytics features, please feel free to submit a Pull Request.
+---
 
+## Acknowledgements
+
+This application was developed in the **[Laboratory of Professor Chung-Der Hsiao](https://cdhsiao.weebly.com/pi-cv.html)** in collaboration with **Chung Yuan Christian University, Taiwan 🇹🇼**. Special credit and sincere gratitude are extended to **Professor Hsiao**, who shared his extensive research experience in biology and multiple domains, providing invaluable guidance and supervision throughout the development of this application.
+
+<p align="center">
+  <a href="https://www.cycu.edu.tw/">
+    <img src="https://raw.githubusercontent.com/yousaf2018/EthoGrid/main/images/cycu.jpg" alt="Chung Yuan Christian University Logo" width="250">
+  </a>
+</p>
+
+---
 ## 📜 Citation
 If you use **AutoTrackSamYOLO** in your work, please cite:
 
